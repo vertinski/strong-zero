@@ -1,7 +1,7 @@
 # 📎 strong.zero-0.1.9 
 ## Generative Multi Layer Perceptron 🤖 
 
-This is a simple Generative MLP for time series learning and generation. Written using Numpy, and presenting many interesting ideas. 
+This is a simple Generative MLP for time series learning and generation. Written using Numpy, and testing many interesting ideas. 
 The loss function is totally custom, and learning schedule is hard-coded for now. This will be updated.
 
 Weights are initialized using He-et-al Initialization. 
