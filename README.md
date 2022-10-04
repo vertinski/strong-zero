@@ -1,4 +1,4 @@
-# strong.zero-0.1.9
+# strong.zero-0.1.9 📎
 ## Generative Multi Layer Perceptron 🤖 
 
 This is a simple, custom written, Generative MLP for time series learning and generation. 
