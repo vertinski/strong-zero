@@ -6,7 +6,7 @@ The loss function is totally custom, and learning schedule is hard-coded for now
 
 Weights are initialized using He-et-al Initialization. 
 
-Training process involves adding uniform noise to training data, to help the model to generalize and increase robustness. Training also includes scheduled periodic learning rate pumps, which makes noticeable Loss decreases. 
+Training process involves adding uniform noise to training data, to help the model to generalize and increase robustness. Training also includes scheduled periodic learning rate pumps, which result in noticeable Loss decreases. 
 
 ## The Generation and Combing process
 
