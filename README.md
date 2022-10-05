@@ -1,3 +1,5 @@
+![alt text](https://github.com/vertinski/strong-zero/blob/main/images/social_image01.png "strong.zero")
+
 # 📎 strong.zero-0.1.9 
 ## Generative Multi Layer Perceptron 🤖 
 
