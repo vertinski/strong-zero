@@ -10,7 +10,7 @@ Weights are initialized using He-et-al Initialization.
 
 Training process involves adding uniform noise to training data, to help the model to generalize and increase robustness. Training also includes scheduled periodic learning rate pumps, which result in noticeable Loss decreases. 
 
-## The Generation and Combing process
+## The Combing and Generation process
 
 The generation process involves "data combing". Strong.Zero "combs" the available time series data using simple scan heads -- sparse data points sampled from existing data. Then it generates the next chunk of time series points, which it adds to existing data, and repeats the process with now updated dataset. 
 > Input and output data can be tokenized. 
