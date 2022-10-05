@@ -1,4 +1,4 @@
-![alt text](https://github.com/vertinski/strong-zero/blob/main/images/social_image01.png "strong.zero")
+<center> ![alt text](https://github.com/vertinski/strong-zero/blob/main/images/social_image01.png "strong.zero") </center>
 
 # 📎 strong.zero-0.1.9 
 ## Generative Multi Layer Perceptron 🤖 
