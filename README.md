@@ -11,6 +11,7 @@ Weights are initialized using He-et-al Initialization.
 
 Training process involves adding uniform noise to training data, to help the model to generalize and increase robustness. Training also includes scheduled periodic learning rate pumps, which result in noticeable Loss decreases. 
 <br/>
+<br/>
 
 ## The Combing and Generation process
 
