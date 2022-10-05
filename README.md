@@ -17,6 +17,12 @@ The generation process involves "data combing". Strong.Zero "combs" the availabl
 
 ![alt text](https://github.com/vertinski/strong-zero/blob/main/images/g-mlp_01.png "Fig 1")
 
+## Training process
+
+Training schedule consists of periodic Learning Rate increases and gradual Noise decrease. A little bit of added noise is left till the end of training. The noise used for data augmentation is uniform pseudo-random noise. 
+
+![alt text](https://github.com/vertinski/strong-zero/blob/main/images/training_01.png "Fig 2")
+
 ✅ For now you can train the model on a CPU (test data included in code) in a couple of minutes and see the example data generated. 
 
 🚫 The weight saving and loading needs to be repaired. 
